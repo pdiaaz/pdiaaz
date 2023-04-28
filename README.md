@@ -3,10 +3,8 @@
 - 📖 Studying DAM
 - 🌱 Currently learning:
 
-<p>
-  
-<img width="50px" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg">
-<img width="50px" src="https://www.vectorlogo.zone/logos/java/java-icon.svg">
+<p align="center">
+ <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="html" style="vertical-align:top; margin:4px">
 
 </p>
 - ⚡ Interested in learning:
