@@ -1,9 +1,7 @@
 # Whats Up <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 -  📍 Valencia, 🇪🇸
 - 📖 Studying DAM
--
 - 🌱 Currently learning:
-- 
 <p align="left">
  <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="html" style="vertical-align:top; margin:4px">
  <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html" style="vertical-align:top; margin:4px">
@@ -11,7 +9,6 @@
 </p>
 
 - ⚡ Interested in learning:
-- 
 <p align="left">
  
  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="html" style="vertical-align:top; margin:4px">
