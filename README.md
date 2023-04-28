@@ -1,6 +1,7 @@
 # Whats Up <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 -  📍 Valencia, 🇪🇸
 - 📖 Studying DAM
+- -homosexual profesional licenciado en blowjobs
 - 🌱 Currently learning:
 - 
 <p align="left">
