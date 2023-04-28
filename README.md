@@ -4,8 +4,8 @@
 - 🌱 Currently learning:
 - 
 <p>
-<img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg">
-<img width="10%" src="https://www.vectorlogo.zone/logos/java/java-icon.svg">
+<img width="30px" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg">
+<img width="30px" src="https://www.vectorlogo.zone/logos/java/java-icon.svg">
 </p>
 - ⚡ Fun fact: ...
 
