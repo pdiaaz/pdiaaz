@@ -2,9 +2,10 @@
 -  📍 Valencia, 🇪🇸
 - 📖 Studying DAM
 - 🌱 Currently learning:
+- 
 <p>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-icon.svg"></code>
+<img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg">
+<img width="10%" src="https://www.vectorlogo.zone/logos/java/java-icon.svg">
 </p>
 - ⚡ Fun fact: ...
 
