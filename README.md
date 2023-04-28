@@ -2,8 +2,8 @@
 -  📍 Valencia, 🇪🇸
 - 📖 Studying DAM
 - 🌱 Currently learning:
-<img src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/mysql.png" width="30px"> 
-<img src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" width="30px">
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
+<code><img width="10%" src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png"></code>
 - ⚡ Fun fact: ...
 
 #### Now Playing
